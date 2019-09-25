@@ -21,3 +21,6 @@ Iterate through all the lines and search a pattern in the text file. If the patt
 
 ### concat.py
 Quick and dirty script to combine text files
+
+### xml_splitter.py
+Split big xml file into small xml files by tag
