@@ -24,3 +24,6 @@ Quick and dirty script to combine text files
 
 ### xml_splitter.py
 Split big xml file into small xml files by tag
+
+### downloader.py
+Small script to download multiple files using wget module
