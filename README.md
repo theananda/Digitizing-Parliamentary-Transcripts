@@ -27,3 +27,6 @@ Split big xml file into small xml files by tag
 
 ### downloader.py
 Small script to download multiple files using wget module
+
+### renamer.py
+Python script to rename multiple files from 1-1-1.txt format to 01-01-01.txt format
