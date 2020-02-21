@@ -1,4 +1,5 @@
-# Digitizing-Parliamentary-Transcripts
+# Deprecated : Digitizing-Parliamentary-Transcripts
+## Use https://github.com/theananda/transcript-processing-module instead
 Scripts Used in data wrangling and structuring Parliamentary Transcripts
 
 ### id_matcher.py
